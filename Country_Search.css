@@ -1,0 +1,26 @@
+body {
+     background-image: url("http://www.eea.org.uk/images/uploads/images/olympic-fire.jpg");
+     font-size:20px;
+     color:white;
+
+}
+
+
+h1 {
+    background-image: url("http://il7.picdn.net/shutterstock/videos/4760666/thumb/3.jpg");
+    text-align:center;
+    font-size:30px;
+}
+
+h2 {
+	background-image: url("http://il7.picdn.net/shutterstock/videos/4760666/thumb/3.jpg");
+    color:navy;
+    text-align:center;
+    font-size:25px;
+}
+
+h3 {
+    color:white;
+    text-align:left
+    font size:18px;
+}
